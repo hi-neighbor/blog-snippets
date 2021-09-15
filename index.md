@@ -9,7 +9,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 <img src="/blog-snippets/images/h2-heading.png" width="50%"/>
 
 ```
-<h2>This is an H2 heading</h2>
+<h2>HEADING_HERE</h2>
 ```
 
 ***
@@ -18,7 +18,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 <img src="/blog-snippets/images/h3-heading.png" width="50%"/>
 
 ```
-<h3>This is an H3 heading instead of the H2</h3>
+<h3>HEADING_HERE</h3>
 ```
 ***
 ### Pull quote #1
@@ -26,11 +26,12 @@ Copy and paste any of the code snippets below into your blog post and replace th
 <img src="/blog-snippets/images/pull-quote-1.png" width="50%"/>
 
 ```
-<figure class="pullquote-one"><img src="https://cdn.shopify.com/s/files/1/0594/4030/0190/files/plants_600x600.png?v=1629992662" alt="" />
+<figure class="pullquote-one">
+  <img src="IMAGE_URL_HERE" alt="ALT_TEXT_HERE" />
   <div class="pullquote-one--text">
-    <blockquote>Let the lounge begin, with Sunbrella fabrics. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.”</blockquote>
+    <blockquote>QUOTE_TEXT_HERE"</blockquote>
   </div>
-  <figcaption>- Mike Freeto</figcaption>
+  <figcaption>- NAME_HERE</figcaption>
 </figure>
 
 ```
@@ -40,11 +41,12 @@ Copy and paste any of the code snippets below into your blog post and replace th
 <img src="/blog-snippets/images/pull-quote-2.png" width="50%"/>
 
 ```
-<figure class="pullquote-two"><img src="https://cdn.shopify.com/s/files/1/0594/4030/0190/files/plants_600x600.png?v=1629992662" alt="" />
+<figure class="pullquote-two">
+  <img src="IMAGE_URL_HERE" alt="ALT_TEXT_HERE" />
   <div class="pullquote-two--text">
-    <blockquote>Let the lounge begin, with Sunbrella fabrics. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.”</blockquote>
+    <blockquote>QUOTE_TEXT_HERE”</blockquote>
   </div>
-  <figcaption>- Mike Freeto</figcaption>
+  <figcaption>- NAME_HERE</figcaption>
 </figure>
 
 ```
@@ -55,8 +57,8 @@ Copy and paste any of the code snippets below into your blog post and replace th
 
 ```
 <figure class="pullquote-three">
-  <blockquote>“ Let the lounge begin, with Sunbrella fabrics. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.”</blockquote>
-  <figcaption>- Mike Freeto</figcaption>
+  <blockquote>QUOTE_TEXT_HERE”</blockquote>
+  <figcaption>- NAME_HERE</figcaption>
 </figure>
 
 ```
@@ -67,8 +69,8 @@ Copy and paste any of the code snippets below into your blog post and replace th
 
 ```
 <figure class="image-two-up">
-  <img src="https://cdn.shopify.com/s/files/1/0594/4030/0190/files/plants_600x600.png?v=1629992662" alt="" /> 
-  <img src="https://cdn.shopify.com/s/files/1/0594/4030/0190/files/plants_600x600.png?v=1629992662" alt="" />
+  <img src="IMAGE_URL_HERE" alt="ALT_TEXT_HERE" />
+  <img src="IMAGE_URL_HERE" alt="ALT_TEXT_HERE" />
 </figure>
 
 ```
@@ -79,7 +81,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 
 ```
 <span class="related-article">Related Article: 
-  <a href="#INSERT_URL_HERE" target="_blank" rel="noopener noreferrer">How to Identify Teak Wood</a>
+  <a href="INSERT_URL_HERE" target="_blank">How to Identify Teak Wood</a>
 </span>
 
 ```
@@ -90,7 +92,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 
 ```
 <div class="styled-bullet-list">
-  <h4 class="small-caps">Cool Shit List</h4>
+  <h4 class="small-caps">LIST_NAME_HERE</h4>
   <ul class="styled-bullet-list">
     <li>Item number one is short</li>
     <li>Item number two is longer and has more content</li>
@@ -108,7 +110,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 
 ```
 <aside class="tip-box">
-  <h3>Hot Tip</h3>
+  <h3>TIP_BOX_TITLE</h3>
   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex</p>
 </aside>
 ```
