@@ -2,7 +2,9 @@
 
 ## This is a home base for all of your tools as a content writer on our blog.
 
-Copy and paste any of the code snippets below into your blog post and replace the UPPERCASE_TAGS with your content and URLs. Enjoy!
+Copy and paste any of the code snippets below into your blog post and replace the UPPERCASE_TAGS with your content and URLs. Reference images are not necessarily to scale. They are just to help you visually ID the component you want before placing it in your post.
+
+Enjoy!
 
 ### H2 heading
 
