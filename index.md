@@ -5,19 +5,24 @@
 Copy and paste any of the code snippets below into your blog post and replace the UPPERCASE_TAGS with your content and URLs. Enjoy!
 
 ### H2 heading
+
 ![](/images/h2-heading.png)
 
 ```
 <h2>This is an H2 heading</h2>
 ```
 
+***
 ### H3 heading
+
 ![](/images/h3-heading.png)
 
 ```
 <h3>This is an H3 heading instead of the H2</h3>
 ```
+***
 ### Pull quote #1
+
 ![](/images/pull-quote-1.png)
 
 ```
@@ -29,7 +34,9 @@ Copy and paste any of the code snippets below into your blog post and replace th
 </figure>
 
 ```
+***
 ### Pull quote #2
+
 ![](/images/pull-quote-2.png)
 
 ```
@@ -41,7 +48,9 @@ Copy and paste any of the code snippets below into your blog post and replace th
 </figure>
 
 ```
+***
 ### Pull quote #3
+
 ![](/images/pull-quote-3.png)
 
 ```
@@ -51,7 +60,9 @@ Copy and paste any of the code snippets below into your blog post and replace th
 </figure>
 
 ```
+***
 ### Side-by-side image component
+
 ![](/images/side-by-side-images.png)
 
 ```
@@ -61,7 +72,9 @@ Copy and paste any of the code snippets below into your blog post and replace th
 </figure>
 
 ```
+***
 ### Related article Link
+
 ![](/images/related-article.png)
 
 ```
@@ -70,7 +83,9 @@ Copy and paste any of the code snippets below into your blog post and replace th
 </span>
 
 ```
+***
 ### Styled link list
+
 ![](/images/bullet-list.png)
 
 ```
@@ -86,7 +101,9 @@ Copy and paste any of the code snippets below into your blog post and replace th
 </div>
 
 ```
+***
 ### Tip box
+
 ![](/images/tip-box.png)
 
 ```
