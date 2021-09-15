@@ -1,3 +1,9 @@
+<style>
+  img {
+    max-width: 50%;
+  }
+</style>
+
 # Neighbor Blog Snippets
 
 ## This is a home base for all of your tools as a content writer on our blog.
