@@ -6,7 +6,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 
 ### H2 heading
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/h2-heading.png" width="50%"/>
+<img src="/blog-snippets/images/h2-heading.png" width="50%"/>
 
 ```
 <h2>This is an H2 heading</h2>
@@ -15,7 +15,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### H3 heading
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/h3-heading.png" width="50%"/>
+<img src="/blog-snippets/images/h3-heading.png" width="50%"/>
 
 ```
 <h3>This is an H3 heading instead of the H2</h3>
@@ -23,7 +23,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Pull quote #1
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/pull-quote-1.png" width="50%"/>
+<img src="/blog-snippets/images/pull-quote-1.png" width="50%"/>
 
 ```
 <figure class="pullquote-one"><img src="https://cdn.shopify.com/s/files/1/0594/4030/0190/files/plants_600x600.png?v=1629992662" alt="" />
@@ -37,7 +37,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Pull quote #2
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/pull-quote-2.png" width="50%"/>
+<img src="/blog-snippets/images/pull-quote-2.png" width="50%"/>
 
 ```
 <figure class="pullquote-two"><img src="https://cdn.shopify.com/s/files/1/0594/4030/0190/files/plants_600x600.png?v=1629992662" alt="" />
@@ -51,7 +51,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Pull quote #3
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/pull-quote-3.png" width="50%"/>
+<img src="/blog-snippets/images/pull-quote-3.png" width="50%"/>
 
 ```
 <figure class="pullquote-three">
@@ -63,7 +63,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Side-by-side image component
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/side-by-side-images.png" width="50%"/>
+<img src="/blog-snippets/images/side-by-side-images.png" width="50%"/>
 
 ```
 <figure class="image-two-up">
@@ -75,7 +75,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Related article Link
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/related-article.png" width="50%"/>
+<img src="/blog-snippets/images/related-article.png" width="50%"/>
 
 ```
 <span class="related-article">Related Article: 
@@ -86,7 +86,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Styled link list
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/bullet-list.png" width="50%"/>
+<img src="/blog-snippets/images/bullet-list.png" width="50%"/>
 
 ```
 <div class="styled-bullet-list">
@@ -104,7 +104,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Tip box
 
-<img src="https://github.com/hi-neighbor/blog-snippets/blob/main/images/tip-box.png" width="50%"/>
+<img src="/blog-snippets/images/tip-box.png" width="50%"/>
 
 ```
 <aside class="tip-box">
