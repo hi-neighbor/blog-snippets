@@ -1,9 +1,3 @@
-<style>
-  img {
-    max-width: 50%;
-  }
-</style>
-
 # Neighbor Blog Snippets
 
 ## This is a home base for all of your tools as a content writer on our blog.
@@ -12,7 +6,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 
 ### H2 heading
 
-![](/images/h2-heading.png)
+<img src="/images/h2-heading.png" width="50%"/>
 
 ```
 <h2>This is an H2 heading</h2>
@@ -21,7 +15,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### H3 heading
 
-![](/images/h3-heading.png)
+<img src="/images/h3-heading.png" width="50%"/>
 
 ```
 <h3>This is an H3 heading instead of the H2</h3>
@@ -29,7 +23,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Pull quote #1
 
-![](/images/pull-quote-1.png)
+<img src="/images/pull-quote-1.png" width="50%"/>
 
 ```
 <figure class="pullquote-one"><img src="https://cdn.shopify.com/s/files/1/0594/4030/0190/files/plants_600x600.png?v=1629992662" alt="" />
@@ -43,7 +37,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Pull quote #2
 
-![](/images/pull-quote-2.png)
+<img src="/images/pull-quote-2.png" width="50%"/>
 
 ```
 <figure class="pullquote-two"><img src="https://cdn.shopify.com/s/files/1/0594/4030/0190/files/plants_600x600.png?v=1629992662" alt="" />
@@ -57,7 +51,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Pull quote #3
 
-![](/images/pull-quote-3.png)
+<img src="/images/pull-quote-3.png" width="50%"/>
 
 ```
 <figure class="pullquote-three">
@@ -69,7 +63,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Side-by-side image component
 
-![](/images/side-by-side-images.png)
+<img src="/images/side-by-side-images.png" width="50%"/>
 
 ```
 <figure class="image-two-up">
@@ -81,7 +75,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Related article Link
 
-![](/images/related-article.png)
+<img src="/images/related-article.png" width="50%"/>
 
 ```
 <span class="related-article">Related Article: 
@@ -92,7 +86,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Styled link list
 
-![](/images/bullet-list.png)
+<img src="/images/bullet-list.png" width="50%"/>
 
 ```
 <div class="styled-bullet-list">
@@ -110,7 +104,7 @@ Copy and paste any of the code snippets below into your blog post and replace th
 ***
 ### Tip box
 
-![](/images/tip-box.png)
+<img src="/images/tip-box.png" width="50%"/>
 
 ```
 <aside class="tip-box">
