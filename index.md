@@ -6,6 +6,18 @@ Copy and paste any of the code snippets below into your blog post and replace th
 
 Enjoy!
 
+### Featured Image
+
+For the featured image, use the following image proportions: `1920 x 720`
+
+***
+
+### In-post Images
+
+For in-post image, there is no set aspect ration or image crop we use. The only thing you need to keep in mind is that the image should have a max-width of `920px`.
+
+***
+
 ### H2 heading
 
 <img src="/blog-snippets/images/h2-heading.png" width="50%"/>
